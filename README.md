@@ -1,8 +1,8 @@
 # Jarvis-AI
-Description :
+# Description :
              Jarvis is a voice-activated virtual assistant built using Python. Inspired by Iron Man’s J.A.R.V.I.S., this assistant interacts with users through speech, performing various tasks such as searching information, opening websites, telling the time, playing music, and even sending emails.
              
-About Project :
+# About Project :
     
 Greet the user based on the time of day.
 
@@ -20,7 +20,7 @@ Launch Visual Studio Code.
 
 Send emails using SMTP when the user gives a command (after configuring the credentials).
 
-Use Case :
+# Use Case :
 
 A fun and functional AI assistant for basic automation tasks.
 
