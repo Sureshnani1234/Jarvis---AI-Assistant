@@ -1,5 +1,4 @@
 # Jarvis-AI
-Python-3 program for a virtual assistant to take commands and fullfill it
 Description :
              Jarvis is a voice-activated virtual assistant built using Python. Inspired by Iron Man’s J.A.R.V.I.S., this assistant interacts with users through speech, performing various tasks such as searching information, opening websites, telling the time, playing music, and even sending emails.
              
